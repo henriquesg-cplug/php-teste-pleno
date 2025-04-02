@@ -64,3 +64,5 @@ A aplicação deve incluir dados mocados para 5 produtos diferentes com seus res
 ## Prazo
 
 48 horas a partir do recebimento do teste.
+
+Enviar para o e-mail: henrique.souza@cplug.com.br o link do repositório público.
