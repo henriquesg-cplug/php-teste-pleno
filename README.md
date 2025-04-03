@@ -24,10 +24,9 @@ Desenvolver uma API REST utilizando Laravel que gerencie um módulo simplificado
 ## Requisitos Obrigatórios
 
 1. Implementar um evento que seja disparado quando uma venda for finalizada (atualizando o estoque)
-2. Processar o cálculo de estatísticas de vendas
-3. Aplicar testes unitários para as principais funcionalidades
-4. Utilize a estrutura de arquivos que melhor convenha, pensando no desenvolvimento em equipe
-5. Deve pensar em escalabilidade, aplique as melhores práticas para que isso aconteça
+4. Aplicar testes unitários para as principais funcionalidades
+5. Utilize a estrutura de arquivos que melhor convenha, pensando no desenvolvimento em equipe
+6. Deve pensar em escalabilidade, aplique as melhores práticas para que isso aconteça
 
 ## Endpoints
 
